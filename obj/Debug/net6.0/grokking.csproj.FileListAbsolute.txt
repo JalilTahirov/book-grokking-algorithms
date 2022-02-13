@@ -1,0 +1,15 @@
+D:\me\grokking\bin\Debug\net6.0\grokking.exe
+D:\me\grokking\bin\Debug\net6.0\grokking.deps.json
+D:\me\grokking\bin\Debug\net6.0\grokking.runtimeconfig.json
+D:\me\grokking\bin\Debug\net6.0\grokking.dll
+D:\me\grokking\bin\Debug\net6.0\ref\grokking.dll
+D:\me\grokking\bin\Debug\net6.0\grokking.pdb
+D:\me\grokking\obj\Debug\net6.0\grokking.csproj.AssemblyReference.cache
+D:\me\grokking\obj\Debug\net6.0\grokking.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\grokking\obj\Debug\net6.0\grokking.AssemblyInfoInputs.cache
+D:\me\grokking\obj\Debug\net6.0\grokking.AssemblyInfo.cs
+D:\me\grokking\obj\Debug\net6.0\grokking.csproj.CoreCompileInputs.cache
+D:\me\grokking\obj\Debug\net6.0\grokking.dll
+D:\me\grokking\obj\Debug\net6.0\ref\grokking.dll
+D:\me\grokking\obj\Debug\net6.0\grokking.pdb
+D:\me\grokking\obj\Debug\net6.0\grokking.genruntimeconfig.cache
