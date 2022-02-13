@@ -1,0 +1,15 @@
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+D:\me\grokking\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\me\grokking\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache

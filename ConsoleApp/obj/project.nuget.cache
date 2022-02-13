@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pob4TEodjDMJp/IARsrIbObvPC/hY9rbRFcHBfoqKK58ZS7HezGCyE7g2rMKHBgJTvTT0As3wKQCmVxUkvqMMg==",
+  "success": true,
+  "projectFilePath": "D:\\me\\grokking\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
